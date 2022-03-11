@@ -1,0 +1,7 @@
+github.com/elliotchance/c2go v0.26.10 h1:xcmbNZeSELkSi69JcZHFX8ccgCEFZHIZGOBeYlslVRo=
+github.com/elliotchance/c2go v0.26.10/go.mod h1:+YFuwnXljn61f5sFHSZ66eH9KTjzzSU6QG1sZdg1l7s=
+golang.org/x/tools v0.0.0-20181109182537-4e34152f1676/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
+golang.org/x/tools v0.1.9 h1:j9KsMiaP1c3B0OTQGth0/k+miLGTgLsAFUCrF2vLcF8=
+golang.org/x/tools v0.1.9/go.mod h1:nABZi5QlRsZVlzPpHl034qft6wpY4eDcsTt5AaioBiU=
+rsc.io/c2go v0.0.0-20170620140410-520c22818a08 h1:AAIN5uzUq20OU2cNoPTVljUm7JDaD0Z/+Xl/uMBHJgU=
+rsc.io/c2go v0.0.0-20170620140410-520c22818a08/go.mod h1:hE73EMCiJ3lIDPgEDEK781LZrVhFDxT+I+ziQRoLVNE=
